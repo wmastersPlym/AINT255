@@ -1,0 +1,106 @@
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive D\AINT206\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Drive E\Courses\yr2014\AINT206\Lectures\term 2\week14\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT206Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Drive E\Courses\yr2015\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron 2015\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+E:\work\Courses\yr2016\AINT255\lectures\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+E:\AINT255\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+E:\AINT255\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+E:\AINT255\week05 Perceptron\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron 15\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron 15\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2016\AINT255\lectures\week05 Perceptron 15\AINT255Perceptron 16\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojResolveAssemblyReference.cache
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.Cache
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Drive E\Courses\yr2017\AINT255\lectures\week04 17 Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe.config
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.exe
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\bin\Debug\SimplePerceptonExample.pdb
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csprojAssemblyReference.cache
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.SimplePerceptron.resources
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.Properties.Resources.resources
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.GenerateResource.cache
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.csproj.CoreCompileInputs.cache
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.exe
+C:\Users\wmasters\Downloads\AINT255Perceptron\AINT255Perceptron 17\SimplePerceptonExample\SimplePerceptonExample\obj\Debug\SimplePerceptonExample.pdb
